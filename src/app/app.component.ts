@@ -20,10 +20,12 @@ export class AppComponent  {
   <input type="file">
   <p>My first paragraph.</p>
   <input type="checkbox">
+  
     <div>
       this is div
       <input type="checkbox">
     </div>
+
     <div>
       <form>
         <label for="fname">First name:</label><br>
