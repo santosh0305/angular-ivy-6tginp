@@ -12,7 +12,7 @@ export class AppComponent  {
     this.htmldata1 = ds.sanitize(0, this.demo);
   }
   demo: any = `<div>
-  <p>I am Yogesh</p>
+  <p>I am santosh</p>
   <h1>My First Heading</h1>
   <p>My second paragraph.</p>
   <input id=txt1 type=text value ='This is value of textbox' />
@@ -20,7 +20,7 @@ export class AppComponent  {
   <input type="file">
   <p>My first paragraph.</p>
   <input type="checkbox">
-  
+
     <div>
       this is div
       <input type="checkbox">
